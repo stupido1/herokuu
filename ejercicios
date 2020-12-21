@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<title>Web Valentin Estudios</title>
+<meta content="Valentin" name="author" />
+<meta content="Página Estudios" name="description" />
+</head>
+<body style="background-color:#fff; color:#000;font-family:Bold" width="1000px" height="900px" min-width="450px;">
+<h1 style="text-align:center">Másteres, Cursos y Carreras</h1>
+  <div class="container">
+    <div class="row" style="float:left;">
+            <img  class="img-responsive" src="https://www.cice.es/wp-content/themes/cice/img/icons-home/ICONO-2.png" alt="">
+            <p>
+              Aprender Diseño y desarrollo web con la formación de CICE te prepara para ejercer tu carrera laboral en un ámbito necesitado de profesionales cualificados. Estudiar desarrollo web con un Máster diseño y desarrollo web de CICE te capacita como profesional de valor en este ámbito. Obtendrás Formación Oficial de Adobe, Apple iOS, Android y Google y la adquisición de conocimientos y habilidades clave para entrar con éxito en el mercado laboral. Y contarás con el impulso y las herramientas precisas para forjar la larga carrera de éxito que deseas.
+            </p>
+        </div>
+              <img  class="img-responsive" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNVWU5Ep4bsTT7ASA5luORPujtpo1iQrV82A&usqp=CAU" alt="">
+              <p>
+                Las voces de «La escuela que viene»
+  El lanzamiento del programa de Fundación Santillana «La escuela que viene» hace unos días encendió la mecha de una de las conversaciones educativas más fructíferas sobre el futuro de la educación después de crisis. Ponemos el foco en las reflexiones de los asistentes durante la conversación ‘online’, todos ellos miembros de la comunidad educativa, para elevar sus voces sobre el futuro de la educación
+              </p>
+        </div>
+    </div>
+    <div class="row" style="float:left;">
+            <img  class="img-responsive" src="https://lh3.googleusercontent.com/proxy/JMFUJzgnhrfFnAWWD8Z_vdtYQPX138zfawAq761SId5Gt3gAOzM81vVe06Z_IiWuRdWo-aNfifbolbsBm3X8xKZ4GlJIAPk8akV24mtSUOI300_aYiwzIHqHRU9pieRwOxlAV8qUzpY1QRKWgwTiWOrwLGNeE9Dzr7J_p-vxVPqurym-3CkZYpHSuEDMrs4m" alt="">
+            <p>
+              Diseño gráfico, desarrollo web, motion graphics, ilustración digital, 3D y animación, videojuegos y postproducción son el eje formativo de la escuela Trazos. Especializada en artes visuales, Trazos lleva 25 años a la vanguardia creativa enseñando a diseñadores, ilustradores, animadores y creativos.
+
+  Así, su oferta académica se ha adaptado a las nuevas necesidades y demandas del mercado, ofreciendo una amplia variedad de carreras, másters y cursos. Todo ello se combina con su propuesta de cursos intensivos y workshops impartidos los sábados, junto a masterclass protagonizadas por algunos de los nombres más relevantes de las artes digitales.
+            </p>
+        </div>
+              <img  class="img-responsive" src="https://www.reasonwhy.es/sites/default/files/captura_de_pantalla_2017-03-16_a_las_20.55.15.png?itok=9t4Ey1gL" alt="">
+              <p>
+                La escuela Trazos cuenta con las últimas tecnologías en equipos y software, recreando un entorno profesional en constante actualización gracias a su contacto directo con la industria y los fabricantes.
+              </p>
+        </div>
+    </div>
+
+
+
+  </div>
+
+
+
+</body>
+</html>
